@@ -1,0 +1,6 @@
+.terraform/
+terraform.tfvars
+vpc/
+terraform.tfstate*
+*.dot
+*.svg
